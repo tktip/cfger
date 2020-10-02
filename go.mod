@@ -1,4 +1,4 @@
-module github.com/haraldfw/cfger
+module github.com/tktip/cfger
 
 go 1.13
 
